@@ -16,7 +16,7 @@ Getting started
 .. highlight::  rest
 
 The Python language has a substantial body of documentation, much of it
-contributed by various authors. The markup used for the Python documentation is
+contributed by various authors. The markup (which just refers to the text encoding system) used for the Python documentation is
 `reStructuredText`_, developed by the `docutils`_ project, amended by custom
 directives and using a toolset named `Sphinx`_ to post-process the HTML output.
 
